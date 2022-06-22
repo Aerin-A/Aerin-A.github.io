@@ -545,7 +545,7 @@
 								id: "credits"
 							}, i.a.createElement("div", {
 								className: "ending-credits"
-							}, i.a.createElement("div", null, "Built by Eren & Inspired by Jarin. "), i.a.createElement("div", null, "All rights reserved. \xa9"))))
+							}, i.a.createElement("div", null, "Built by Eren & Designed by Jarin. "), i.a.createElement("div", null, "All rights reserved. \xa9"))))
 						}
 					}]), a
 				}(i.a.Component));
