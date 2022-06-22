@@ -165,7 +165,7 @@
 								className: "intro-subtitle"
 							}, "Nice to meet you."), i.a.createElement("div", {
 								className: "intro-desc"
-							}, "I'm a high school student based in Calgary. I have an interest in programming, specifically in the areas of automation and finance."), i.a.createElement("a", {
+							}, "I'm a high school student based in southern Alberta. I have an interest in programming, specifically in the areas of automation and finance."), i.a.createElement("a", {
 								href: "mailto:gazi.jarin@mail.utoronto.ca",
 								className: "intro-contact"
 							}, i.a.createElement(p.a, null), "  Say hi!")))
@@ -545,7 +545,7 @@
 								id: "credits"
 							}, i.a.createElement("div", {
 								className: "ending-credits"
-							}, i.a.createElement("div", null, "Inspired by Gazi Jarin. "), i.a.createElement("div", null, "All rights reserved. \xa9"))))
+							}, i.a.createElement("div", null, "Built by Eren & Inspired by Jarin. "), i.a.createElement("div", null, "All rights reserved. \xa9"))))
 						}
 					}]), a
 				}(i.a.Component));
