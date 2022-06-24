@@ -261,7 +261,7 @@
 						}, i.a.createElement("span", {
 							className: "joblist-job-title"
 						}, c[e].jobTitle + " "), i.a.createElement("span", {
-							className: ""
+							className: "joblist-job-company"
 						}, e), i.a.createElement("div", {
 							className: "joblist-duration"
 						}, c[e].duration), i.a.createElement("ul", {
