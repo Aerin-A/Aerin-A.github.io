@@ -232,7 +232,6 @@
     border-radius: 50%;
     width: 8px;
     height: 0px;
-/* paste 021 */
     cursor: pointer;
     display: inline-block;
     margin: 0 8px
@@ -22933,7 +22932,6 @@ a.close.disabled {
 }
 .carousel.pointer-event {
     touch-action: pan-y
-/* paste 018 */
 
 }
 .carousel-item {
@@ -23026,11 +23024,9 @@ a.close.disabled {
 }
 .carousel-control-prev-icon {
     background-image: url("")
-/* paste 007 */
 }
 .carousel-control-next-icon {
     background-image: url("")
-/* paste 008 */
 }
 .carousel-indicators {
     position: absolute;
@@ -25838,4 +25834,3 @@ a.text-dark:focus, a.text-dark:hover {
         border-color: #dee2e6
     }
 }
-/*# sourceMappingURL=2.3adb2678.chunk.css.map */
