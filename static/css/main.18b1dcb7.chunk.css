@@ -370,7 +370,6 @@ ul {
     padding: 2rem 1.75rem;
     background-color: var(--light-navy);
     border-radius: 16px
-/* paste 024
 }
 .projects-card:hover {
     -webkit-transform: translateY(-7px);
@@ -418,7 +417,6 @@ ul {
     max-width: 1000px;
     margin: 0 auto;
     padding-bottom: 60px
-/* paste 020 */
 }
 .carousel-inner:hover {
     -webkit-transform: scale(1.01);
@@ -542,7 +540,6 @@ html {
     display: flex;
     padding-bottom: 42px;
     width: 100vw
-/* paste 023 */
 }
 .section-header:after {
     content: "";
