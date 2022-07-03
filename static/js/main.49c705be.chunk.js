@@ -504,7 +504,7 @@
 								id: "credits"
 							}, i.a.createElement("div", {
 								className: "ending-credits"
-							}, i.a.createElement("div", null, "Built by Eren Wise & Designed by Gazi Jarin. "), i.a.createElement("div", null, "All rights reserved. \xa9"))))
+							}, i.a.createElement("div", null, "Modified by Eren Wise & Designed by Gazi Jarin. "), i.a.createElement("div", null, "All rights reserved. \xa9"))))
 						}
 					}]), a
 				}(i.a.Component));
