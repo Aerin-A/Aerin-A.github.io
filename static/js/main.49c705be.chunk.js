@@ -160,7 +160,7 @@
 								className: "intro-title"
 							}, "Hello, ", i.a.createElement("span", {
 								className: "intro-name"
-							}, "Eren"), " here.")), i.a.createElement(y, null, i.a.createElement("div", {
+							}, "Ahron"), " here.")), i.a.createElement(y, null, i.a.createElement("div", {
 								className: "intro-subtitle"
 							}, "Nice to meet you."), i.a.createElement("div", {
 								className: "intro-desc"
@@ -504,7 +504,7 @@
 								id: "credits"
 							}, i.a.createElement("div", {
 								className: "ending-credits"
-							}, i.a.createElement("div", null, "Modified by Eren Wise & Designed by Gazi Jarin. "), i.a.createElement("div", null, "All rights reserved. \xa9"))))
+							}, i.a.createElement("div", null, "Created by Ahron G & Inspired by G. Jarin. "), i.a.createElement("div", null, ""))))
 						}
 					}]), a
 				}(i.a.Component));
