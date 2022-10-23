@@ -331,8 +331,8 @@
 									href: "https://ucalgary.ca/about"
 								}, " ", "University of Calgary"), " while maintaining and expanding my freelancing services as a bookkeeper.", " ", i.a.createElement("a", {
 						},""), ""),
-								t = i.a.createElement("p", null, "Aside from all of that, I'm interested in the progress of science, the state of economics, and political science. I also play video games, although usually with friends."),
-								a = ["SQL", "Python", "Quickbooks", "Javascript & Java", "Sage 50", "HTML & CSS"];
+								t = i.a.createElement("p", null, "Aside from all of that, I'm interested in the progress of science, news regarding economics, and political science. I also play video games, although usually with friends."),
+								a = ["SQL", "Python", "Quickbooks", "Javascript", "Sage 50", "HTML & CSS"];
 							a.map((function(e) {
 								return i.a.createElement("li", null, e)
 							}));
